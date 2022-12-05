@@ -1,0 +1,14 @@
+\begin{rSection}{Relevant Courses}
+{\bf Courses:}
+\href{https://github.com/Dinesh-Adhithya-H/ControlSystems}{Control Systems}
+\href{https://github.com/Dinesh-Adhithya-H/AI-and-its-scientific-applications}{Artificial Intelligence and its Scientific Applications}, \href{https://github.com/Dinesh-Adhithya-H/Applied-machine-learning}{Machine learning and Data Science}, Linear Algebra, Probability and Statistics, \href{https://github.com/Dinesh-Adhithya-H/Algorithms}{Algorithms}, 
+\href{https://github.com/Dinesh-Adhithya-H/Digital-Image-Processing}{Digital Image Processing},
+\href{https://github.com/Dinesh-Adhithya-H/Natural-Language-Processing}{Natural Language Processing},
+\href{https://github.com/Dinesh-Adhithya-H/Advanced-Programming-in-Python}{Advanced programming in Python},
+\href{https://github.com/Dinesh-Adhithya-H/Internet-of-Things}{Internet of Things} ,
+\href{https://github.com/Dinesh-Adhithya-H/Network-Theory-and-Applications}{Network Theory and Applications},
+\href{https://github.com/Dinesh-Adhithya-H/Computer-Organization}{Computer Organization},
+Operating Systems,
+\href{https://github.com/Dinesh-Adhithya-H/Computer-Vision}{Computer vision} and 
+\href{https://github.com/Dinesh-Adhithya-H/DeepLearning}{Deep Learning}.
+\\ 
