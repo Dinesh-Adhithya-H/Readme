@@ -17,15 +17,15 @@ Projects with coding component:
 
 [1. Review paper on Ryzen Zen Architecture](https://github.com/Dinesh-Adhithya-H/Computer-Organization/blob/main/Review-Paper-Ryzen-Zen/Ryzen_Zen_Review_Paper.pdf)
 The Ryzen Zen Architecture was discussed in terms of its memory hierarchy, core engine, instruction processing pipeline, clock domains and Instruction set. The registers used by the processor, stack operations were discussed in detail and basic operations were written using the instruction set of the architecture. Finally the applications of the processor were discussed.
-\\
-\\
+
+
 [2. SMS Spam Detection using Supervised Learning Techniques](https://drive.google.com/file/d/1kGVBKwxRkC86UBDCQIcwyQ3t-7vw-IBH/view?usp=sharing)
 Supervised machine learning techniques were used  to classify SMS as spam or not , best performing model had an accuracy of 0.99 and recall of 0.94. The best performing model was a Support Vector Machine with a linear kernel and outperformed logistic regression and Multinomial Naive Bayes.
-\\
-\\
+
+
 [3. Pass Difficulty Modelling in Football Matches using Machine Learning Techniques](https://drive.google.com/file/d/1OgF5Zdq66psz5MwVXvDwwPBuZL3PSWPV/view?usp=sharing)
 Using match event data difficulty of completing passes using various pass characteristics were modelled to identify the best passers of the ball and was used to develop a Xg chain model giving more weight age to tough passes.
-\\
+
 
 [4. Financial Text Analysis using WordNet and Supervised Learning Techniques.](https://github.com/Dinesh-Adhithya-H/Natural-Language-Processing/blob/main/Financial-Sentiment-Analysis/Report (2).pdf)
 The financial text collected is classified into 3 classes Neutral , Positive and Negative. Various Sentiment Analysis models such as WordNet , Sentiment Intensity Analyzer and bag of words model were explored and best performing model was Support Vector Classifier and performed at 83 \% accuracy.\\
