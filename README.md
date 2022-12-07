@@ -39,7 +39,7 @@ Political opinions of citizens were collected in a survey on the expected qualit
 Passing networks were constructed using two approaches namely using players as nodes and in other space as nodes. Various network centrality measures were measured and a machine learning approach was used to find the importance of these measures and result obtained by a team in a football match. Features such as transitivity and closeness centrality were found to be the most important features leading to a team's win based on a Random Forest Classifier.
 
 [7. Paper Review on avoiding negative side effects by considering others.](https://github.com/Dinesh-Adhithya-H/Reinforcement-Learning/blob/main/avoiding-negative-side-effects-considering-others/Avoiding%20Negative%20Side%20Effects%20by%20Considering%20Others%20(1).pdf)
-A two agent environment was built , where one agent's Q function had a caring coefficient on the Q function of the other agent. One of the agent cares about the other agent , but the relationship isn't mutual. Using Q Learning , under various setting of the environment (by tuning caring coefficient) the average rewards obtained for both agents were analyzed.\\
+A two agent environment was built , where one agent's Q function had a caring coefficient on the Q function of the other agent. One of the agent cares about the other agent , but the relationship isn't mutual. Using Q Learning , under various setting of the environment (by tuning caring coefficient) the average rewards obtained for both agents were analyzed.
 
 [8. Music Genre Classification using audio features of the signal.](https://github.com/Dinesh-Adhithya-H/Data_Science_and_Machine_Learning/blob/main/MusicGenreClassification/DSML_Final_Project_Report%20Dinesh_Rohit.pdf)
 
