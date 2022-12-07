@@ -28,7 +28,7 @@ Using match event data difficulty of completing passes using various pass charac
 
 
 [4. Financial Text Analysis using WordNet and Supervised Learning Techniques.](https://github.com/Dinesh-Adhithya-H/Natural-Language-Processing/blob/main/Financial-Sentiment-Analysis/Report (2).pdf)
-The financial text collected is classified into 3 classes Neutral , Positive and Negative. Various Sentiment Analysis models such as WordNet , Sentiment Intensity Analyzer and bag of words model were explored and best performing model was Support Vector Classifier and performed at 83 \% accuracy.\\
+The financial text collected is classified into 3 classes Neutral , Positive and Negative. Various Sentiment Analysis models such as WordNet , Sentiment Intensity Analyzer and bag of words model were explored and best performing model was Support Vector Classifier and performed at 83 % accuracy.
 
 [5. Opinion Mining using Unsupervised Learning.](https://github.com/Dinesh-Adhithya-H/Natural-Language-Processing/blob/main/Unsupervised-Opinion-Mining/Report.pdf)
 
